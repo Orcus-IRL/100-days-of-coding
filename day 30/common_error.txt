@@ -1,0 +1,16 @@
+# FileNotFoundError
+
+# with open("a_file.txt") as f:
+#     f.read()
+
+# KeyError
+# dictionary = {"key":"value"}
+# print(dictionary["not_existent_key"])
+
+# IndexError
+# list1 = [1,2,3]
+# print(list1[5])
+
+# TypeError
+# text = "abc"
+# print(text+5)
