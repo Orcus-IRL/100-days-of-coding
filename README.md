@@ -57,4 +57,3 @@ Thanks to the online coding community for inspiration and resources.
 
 For questions or feedback, please open an issue on the [GitHub repository](https://github.com/Orcus-IRL/100-days-of-coding).
 
-Happy Coding!
