@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Success{% endblock %}</title>
+    {% block styles %}
+    <!-- Adding Bootstrap-Flask styling here -->
+    {{ bootstrap.load_css() }} {% endblock %}
+</head>
+<body>
+    {% block content %} this is the base html{% endblock %}
+</body>
+</html>
