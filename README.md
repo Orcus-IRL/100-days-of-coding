@@ -48,6 +48,7 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 ## License
 
 This project is licensed under the MIT License.
+For personal reaosns, I have decided to stop the 100 days of coding challenge. I will still be coding and updating this repository, but I will not be following the 100 days of coding challenge after Day 74.
 
 ## Acknowledgements
 
